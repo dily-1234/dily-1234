@@ -2,7 +2,7 @@
 
 **`Full-Stack Developer`**
 
-I'm a full-stack developer currently studying BSc Computer Science at the University of Birmingham. I work on various projects, from making full-stack web applications using MERN to developing discord bots.
+I'm a full-stack developer with a Bachelor's in Computer Science from the University of Birmingham. I work on various projects, from making full-stack web applications using MERN to developing discord bots.
 
 ---
 
